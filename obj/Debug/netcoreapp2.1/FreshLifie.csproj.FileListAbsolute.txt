@@ -1,0 +1,112 @@
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.deps.json
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.runtimeconfig.json
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.runtimeconfig.dev.json
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.dll
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.pdb
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.Views.dll
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.Views.pdb
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csprojAssemblyReference.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csproj.CoreCompileInputs.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorAssemblyInfo.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorAssemblyInfo.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.AssemblyInfoInputs.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.AssemblyInfo.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.TagHelpers.input.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.TagHelpers.output.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorCoreGenerate.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorTargetAssemblyInfo.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.Views.pdb
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.dll
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.pdb
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csproj.CopyComplete
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\Ahmeda1708\source\repos\MariamProject\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Hello.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.deps.json
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.runtimeconfig.json
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.runtimeconfig.dev.json
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.dll
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.pdb
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.Views.dll
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.Views.pdb
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csprojAssemblyReference.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csproj.CoreCompileInputs.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorAssemblyInfo.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorAssemblyInfo.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.AssemblyInfoInputs.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.AssemblyInfo.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.TagHelpers.input.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.TagHelpers.output.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorCoreGenerate.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Hello.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorTargetAssemblyInfo.cs
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.Views.pdb
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.dll
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.pdb
+C:\Users\Ahmeda1708\Documents\GitHub\FreshLifie\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csproj.CopyComplete
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.deps.json
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.runtimeconfig.json
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.runtimeconfig.dev.json
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.dll
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.pdb
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.Views.dll
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\bin\Debug\netcoreapp2.1\FreshLifie.Views.pdb
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csprojAssemblyReference.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csproj.CoreCompileInputs.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorAssemblyInfo.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorAssemblyInfo.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.AssemblyInfoInputs.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.AssemblyInfo.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.TagHelpers.input.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.TagHelpers.output.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorCoreGenerate.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Hello.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorTargetAssemblyInfo.cache
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.RazorTargetAssemblyInfo.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.Views.pdb
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.dll
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.pdb
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\FreshLifie.csproj.CopyComplete
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\User_Provider\Create.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\User_Provider\Delete.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\User_Provider\Details.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\User_Provider\Edit.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\User_Provider\Index.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Product_Type\Create.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Product_Type\Delete.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Product_Type\Details.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Product_Type\Edit.g.cshtml.cs
+C:\Users\AllAA OSAMA\Desktop\FreshLifie-master\FreshLifie\obj\Debug\netcoreapp2.1\Razor\Views\Product_Type\Index.g.cshtml.cs
